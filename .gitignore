@@ -1,0 +1,5 @@
+*.sqlite3
+
+media/profile_pic/*
+
+!media/ad_images/.gitkeep
